@@ -42,13 +42,13 @@ SortingAlgorithmsJava/
 **Input**
 
 ```text
-5 3 8 4 2
+7 8 1 2
 ```
 
 **Output**
 
 ```text
-2 3 4 5 8
+1 2 7 8
 ```
 
 ## 🤝 Contributions
