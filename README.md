@@ -5,8 +5,8 @@ This repository contains Java implementations of popular Sorting Algorithms with
 ## 📚 Algorithms Included
 
 - ✅ Bubble Sort
-- 🔄 Selection Sort (Coming Soon)
-- 🔄 Insertion Sort (Coming Soon)
+- ✅ Selection Sort 
+-✅Insertion Sort 
 - 🔄 Merge Sort (Coming Soon)
 - 🔄 Quick Sort (Coming Soon)
 - 🔄 Heap Sort (Coming Soon)
